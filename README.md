@@ -1,4 +1,4 @@
-# LowerDimensionalSpace-Stabilization-RT-UQI
+# DeepLearning-LatentSpace-StabilityEvaluation
 
 
 <!-- TABLE OF CONTENTS -->
@@ -23,14 +23,16 @@
 
 <p align="justify"> 
  
-* Current nonlinear manifold dimensionality reduction (NDR) methods have various assumptions about the data, model, subsurface, geological, and engineering settings yielding non-unique solutions and tentatively increased uncertainty.
+* Current nonlinear dimensionality reduction methods are based on various assumptions yielding non-unique solutions that increase uncertainty and reduce reliability. 
 
-* We propose an innovative method that stabilizes data representations in lower-dimensional space (LDS) applicable to any manifold dimensionality method using rigid transformations. This aims to create a single unique solution for LDS regardless of data perturbations, starting seed iteration, susceptibility to Euclidean transformations, and tendency of NDR’s to yield non-unique solutions.
+* We propose a generalizable workflow to evaluate the stability of deep learning latent feature spaces to aid model reliability when performing predictive, and inferential analyses. 
 
-* Our method visualizes the uncertainty space for samples in subsurface datasets, which is helpful for model updating and inferential analysis for the inclusion of out-of-sample-points (OOSP) without model recalculation.
 
-* Workflow demonstration on 3 experimental setups via MDS on synthetic and real subsurface datasets using the Euclidean and Manhattan distance metrics over for a large number of model and sample realizations.
+* Workflow is demonstrated on 2 end-member cases and a publicly available dataset, promoting improved model interpretability, reliability, and quality control for more informed decision-making for diverse analytical workflows.
 
+
+* We recommend evaluating such spaces before making inferences and subsequent decisions to reduce algorithmic bias.
+* 
 </p>
 
 
@@ -48,8 +50,9 @@ The following open-source packages are mainly used in this project:
 * Pandas
 * Matplotlib
 * Scikit-Learn
+* Pytorch
 
-Please install other required packages detailed in the `requirements.txt` file and include custom-made `RigidTransformation_UQI_OOSP.py` containing functions in active working directory
+Please install other required packages detailed in the `requirements.txt` file and include custom-made `RigidTransformation_UQI_OOSP.py` containing functions in the active working directory
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
