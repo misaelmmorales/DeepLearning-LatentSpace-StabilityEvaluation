@@ -99,6 +99,10 @@ This work is supported by the Digital Reservoir Characterization Technology (DIR
   👩‍🎓: <b>Ademide O. Mabadeje</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>ademidemabadeje@utexas.edu</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/Mide478">@Mide478</a> <br>
+
+  👩‍🎓: <b>Misael M. Morales</b> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>misaelmorales@utexas.edu</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/misaelmmorales">@misaelmmorales</a> <br>
   
   👨‍🏫: <b>Michael J. Pyrcz</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mpyrcz@austin.utexas.edu</a> <br>
