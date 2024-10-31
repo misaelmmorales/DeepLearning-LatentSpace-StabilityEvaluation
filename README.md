@@ -1,6 +1,6 @@
 # DeepLearning-LatentSpace-StabilityEvaluation
 
-   TEMPORARY, To be fixed
+   TEMPORARY PLACEHOLDER, Read me to be updated later!
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
