@@ -32,7 +32,7 @@
 
 
 * We recommend evaluating such spaces before making inferences and subsequent decisions to reduce algorithmic bias.
-* 
+  
 </p>
 
 
