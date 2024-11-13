@@ -1,6 +1,6 @@
 # DeepLearning-LatentSpace-StabilityEvaluation
 
-   TEMPORARY PLACEHOLDER, Read me to be updated later!
+   Mabadeje, A., Morales, M. M., and Pyrcz, M. (2024). Evaluating the stability of deep learning latent feature space for subsurface modeling.
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
