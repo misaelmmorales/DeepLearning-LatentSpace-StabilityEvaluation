@@ -53,7 +53,7 @@ The following open-source packages are mainly used in this project:
 * Scikit-Learn
 * Pytorch
 
-Please install other required packages detailed in the `requirements.txt` file and include custom-made `RigidTransformation_UQI_OOSP.py` containing functions in the active working directory
+Please install other required packages detailed in the `requirements.txt` file and include custom-made `Functions_comparisons.py` containing functions in the active working directory
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -61,16 +61,16 @@ Please install other required packages detailed in the `requirements.txt` file a
 <!-- FOLDER STRUCTURE -->
 <h2 id="folder-structure"> :cactus: Folder Structure</h2>
 
-    Scripts
+    Functions
     .
-    ├── RigidTransformation_UQI_OOSP.py
-    ├── main.py
+    ├── FunctionsP.py
 
-    Workflows
+    Scenarios
     .
-    ├── Notebook 1: OOSP with Synthetic Data.ipynb
-    ├── Notebook 2: OOSP with Real Data.ipynb
-    ├── Notebook 3: Result Analysis.ipynb
+    ├── Notebook 0: EigenPCA Data Generation
+    ├── Notebook 1: Correlation 0
+    ├── Notebook 2: Public Dataset
+    ├── Notebook 3: Correlation 1
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!-- DATASET -->
