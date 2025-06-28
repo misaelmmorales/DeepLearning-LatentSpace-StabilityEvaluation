@@ -63,7 +63,7 @@ Please install other required packages detailed in the `requirements.txt` file a
 
     Functions
     .
-    ├── FunctionsP.py
+    ├── Functions.py
 
     Scenarios
     .
