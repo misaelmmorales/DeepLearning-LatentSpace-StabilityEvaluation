@@ -1,6 +1,6 @@
 # DeepLearning-LatentSpace-StabilityEvaluation
 
-   Mabadeje, A. O., Morales, M. M., Torres-Verdin, C., and Pyrcz, M. (2024, submitted). Evaluating the stability of deep learning latent feature space for subsurface modeling. *Mathematical Geosciences*
+   Mabadeje, A. O., Morales, M. M., Torres-Verdin, C., and Pyrcz, M. (2025). Evaluating the stability of deep learning latent feature space for subsurface modeling. *Mathematical Geosciences*. https://doi.org/10.1007/s11004-025-10223-3
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
@@ -103,6 +103,9 @@ This work is supported by the Digital Reservoir Characterization Technology (DIR
   👩‍🎓: <b>Misael M. Morales</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>misaelmorales[at]utexas[dot]edu</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/misaelmmorales">@misaelmmorales</a> <br>
+
+  👩‍🎓: <b>Carloss Torres-Verdin</b> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>cverdin[at]austin[dot]utexas[dot]edu</a> <br>
   
   👨‍🏫: <b>Michael J. Pyrcz</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mpyrcz[at]austin[dot]utexas[dot]edu</a> <br>
